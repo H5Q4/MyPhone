@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="HrAppTheme2" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:colorControlHighlight">@color/colorControlHighlight</item>
+        <item name="android:colorBackground">@color/colorThemeBg</item>
+    </style>
+
+    <style name="HrAppTheme" parent="@android:style/Theme.Material.NoActionBar.Fullscreen">
+        <item name="android:colorControlHighlight">@color/colorControlHighlight</item>
+        <item name="android:colorBackground">@color/colorThemeBg</item>
+    </style>
+
+</resources>

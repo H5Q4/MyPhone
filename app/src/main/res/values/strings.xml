@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyPhone</string>
+    <string name="accept">确定</string>
+    <string name="input_digits">输入号码：</string>
+    <string name="delete">删除</string>
+    <string name="save">存储</string>
+    <string name="none">无</string>
+    <string name="stop_calling">关闭呼叫</string>
+    <string name="hold">保持</string>
+    <string name="sms">短信息</string>
+    <string name="hands_free_on">免提开</string>
+    <string name="select">选择</string>
+    <string name="end_one_call">关闭一个呼叫</string>
+    <string name="end_all_call">关闭所有呼叫</string>
+    <string name="establish_multi_call">建立多方通话</string>
+    <string name="switch_call">切换呼叫</string>
+    <string name="call_type">呼叫类型</string>
+    <string name="single_call">点呼</string>
+    <string name="group_call">组呼</string>
+    <string name="broadcast">广播</string>
+</resources>
